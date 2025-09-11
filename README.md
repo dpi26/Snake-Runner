@@ -8,4 +8,5 @@ Snake is a game in which a snake needs to explore an environment and catch the f
 - snake game is created by many language just like java, javascript and php, pytthon ..
 - 
 this is created by html,css,by create snake gaming ...
+where we create a div for running and 2nd div for add with that div.
 
